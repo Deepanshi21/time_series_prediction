@@ -1,4 +1,4 @@
-#Time Series Prediction Project
+# Time Series Prediction Project
 
 
 For all portions of year 10, I have used the Decision Tree Classifier from the Sklearn package to predict the parameters 9 to 13.
@@ -12,5 +12,5 @@ The dataset comprises of information about numerous road segments that was gathe
 
 I have forecasted the values for parameters 9 to 13 of each section's 10th year using the model outlined above.
 
-#Submitted by
-#Deepanshi Srivastava
+#### Submitted by
+#### Deepanshi Srivastava
